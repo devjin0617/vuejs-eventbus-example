@@ -5,7 +5,7 @@
         <div v-for="item in list">
             <el-alert
                 v-if="list"
-                title="이벤트 전송완료"
+                title="event receive complate"
                 type="info"
                 :closable="false"
                 :description="item">

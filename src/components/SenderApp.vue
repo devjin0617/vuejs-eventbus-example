@@ -7,7 +7,7 @@
         <transition name="fade">
             <el-alert
                 v-if="receiveText"
-                title="이벤트 전송완료"
+                title="event send complate"
                 type="success"
                 :closable="false"
                 :description="receiveText">
