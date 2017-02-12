@@ -2,6 +2,9 @@
 
 > eventbus example in vue.js
 
+# play demo
+[vue.js EventBus example demo](https://devjin0617.github.io/vuejs-eventbus-example/)
+
 ## Example Build
 
 ``` bash
