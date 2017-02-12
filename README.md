@@ -1,8 +1,8 @@
 # vuejs-eventbus-example
 
-> A Vue.js project
+> eventbus example in vue.js
 
-## Build Setup
+## Example Build
 
 ``` bash
 # install dependencies
@@ -15,4 +15,6 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## blog url
+
+[JinBlog - vue.js EventBus를 활용한 컴포넌트간 데이터 공유](http://blog.puding.kr/179)
