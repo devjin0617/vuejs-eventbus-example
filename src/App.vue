@@ -1,6 +1,9 @@
 <template>
   <div id="app">
     <h2>Vuejs EventBus Example</h2> <a href="https://github.com/devjin0617/vuejs-eventbus-example" target="_blank">Github Repository</a>
+    <div>
+      <a class="github-button" href="https://github.com/devjin0617/vuejs-eventbus-example" data-count-href="/devjin0617/vuejs-eventbus-example/stargazers" data-count-api="/repos/devjin0617/vuejs-eventbus-example#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star devjin0617/vuejs-eventbus-example on GitHub">Star</a>
+    </div>
     <SenderApp />
     <ReceiverApp />
   </div>
